@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/serilog-demo-app/.vs/serilog-demo-app/v16
+/serilog-demo-app/serilog-demo/bin/Debug/net5.0
+/serilog-demo-app/serilog-demo/obj
+/serilog-demo-app/serilog-demo/Properties/launchSettings.json
+/serilog-demo-app/serilog-demo/serilog-demo.csproj.user

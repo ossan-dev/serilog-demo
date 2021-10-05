@@ -30,5 +30,19 @@ namespace serilog_demo.Controllers
             _logger.LogInformation("Controller: {0} - Action: {1}", GetRouteInfo().Item1, GetRouteInfo().Item2);
             return Ok("Product added successfully!");
         }
+
+        [HttpPut]
+        public IActionResult Put()
+        {
+            _logger.LogWarning("Controller: {0} - Action: {1}", GetRouteInfo().Item1, GetRouteInfo().Item2);
+            return Ok("Product updated successfully!");
+        }
+
+        [HttpDelete]
+        public IActionResult Delete()
+        {
+            _logger.LogError("Controller: {0} - Action: {1}", GetRouteInfo().Item1, GetRouteInfo().Item2);
+            return Ok("Product delete successfully!");
+        }
     }
 }

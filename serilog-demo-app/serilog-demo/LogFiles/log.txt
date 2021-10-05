@@ -1,0 +1,27 @@
+2021-10-05 17:41:33.608 +02:00 [INF] Now listening on: https://localhost:5001
+2021-10-05 17:41:33.719 +02:00 [INF] Now listening on: http://localhost:5000
+2021-10-05 17:41:33.722 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-05 17:41:33.724 +02:00 [INF] Hosting environment: Development
+2021-10-05 17:41:33.727 +02:00 [INF] Content root path: C:\Projects\SampleProjects\serilog-demo\serilog-demo\serilog-demo-app\serilog-demo
+2021-10-05 17:41:37.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+2021-10-05 17:41:37.437 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 252.2049ms
+2021-10-05 17:41:37.736 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-10-05 17:41:38.041 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 304.9719ms
+2021-10-05 17:41:53.154 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/Products - -
+2021-10-05 17:41:53.207 +02:00 [INF] Executing endpoint 'serilog_demo.Controllers.ProductsController.Get (serilog-demo)'
+2021-10-05 17:41:53.246 +02:00 [INF] Route matched with {action = "Get", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller serilog_demo.Controllers.ProductsController (serilog-demo).
+2021-10-05 17:41:53.258 +02:00 [INF] Controller: Products - Action: Get
+2021-10-05 17:41:53.271 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2021-10-05 17:41:53.287 +02:00 [INF] Executed action serilog_demo.Controllers.ProductsController.Get (serilog-demo) in 26.251ms
+2021-10-05 17:41:53.295 +02:00 [INF] Executed endpoint 'serilog_demo.Controllers.ProductsController.Get (serilog-demo)'
+2021-10-05 17:41:53.298 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/Products - - - 200 - text/plain;+charset=utf-8 143.3558ms
+2021-10-05 17:41:59.198 +02:00 [INF] Application is shutting down...
+2021-10-05 17:42:19.688 +02:00 [INF] Now listening on: https://localhost:5001
+2021-10-05 17:42:19.718 +02:00 [INF] Now listening on: http://localhost:5000
+2021-10-05 17:42:19.720 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-05 17:42:19.721 +02:00 [INF] Hosting environment: Development
+2021-10-05 17:42:19.723 +02:00 [INF] Content root path: C:\Projects\SampleProjects\serilog-demo\serilog-demo\serilog-demo-app\serilog-demo
+2021-10-05 17:42:21.834 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+2021-10-05 17:42:22.046 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 219.9990ms
+2021-10-05 17:42:22.547 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-10-05 17:42:22.876 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 328.9540ms

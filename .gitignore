@@ -7,3 +7,7 @@
 /serilog-demo-app/serilog-demo/obj
 /serilog-demo-app/serilog-demo/Properties/launchSettings.json
 /serilog-demo-app/serilog-demo/serilog-demo.csproj.user
+/serilog-demo-app/serilog-demo-func/Properties
+/serilog-demo-app/serilog-demo-func/Properties
+/serilog-demo-app/serilog-demo-func/Properties/serviceDependencies.json
+/serilog-demo-app/.vs/serilog-demo-app/config

@@ -1,0 +1,5 @@
+2021-10-06 09:01:38.802 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-06 09:01:38.885 +02:00 [INF] Hosting environment: Development
+2021-10-06 09:01:38.887 +02:00 [INF] Content root path: C:\Projects\SampleProjects\serilog-demo\serilog-demo\serilog-demo-app\serilog-demo-func\bin\Debug\net5.0\
+2021-10-06 09:01:46.150 +02:00 [WRN] Custom log from Run()
+2021-10-06 09:01:46.151 +02:00 [INF] C# HTTP trigger function processed a request.
